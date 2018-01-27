@@ -5,5 +5,3 @@ branch1
 comit
 
 comit2
-
-comit3

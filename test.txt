@@ -4,6 +4,9 @@ class
 suagit3
 suagit4
 
+suagit4
+suagit4
+
 amend
 comit 2
 
